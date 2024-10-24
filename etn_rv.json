@@ -3,10 +3,10 @@
 	"version": "24.1024",
 	"packages": {
 		"etn_minitrolley": {
-			"description": "MiniTrolleys",
+			"description": "MiniTrolley",
 			"version": "24.1024",
 			"checksum": "4150801cd18f4e875025e59ec39efe7975bccc4c4a5db3cd6b4008a149f95187",
-			"url": "https://etneus95.github.io/rv_etn/MiniTrolley.zip",
+			"url": "https://etneus95.github.io/etn_rv/MiniTrolley.zip",
 			"file": "MiniTrolley.zip"
 		},
 		"vas_hdgfx": {
