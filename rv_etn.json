@@ -15,34 +15,6 @@
 			"checksum": "e7b7a56856a034ca40ebf47bca83c92b2733e6166c7d138454088689d1f94e04",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdgfx.zip",
 			"file": "vas_hdgfx.zip"
-		},
-		"vas_hdcarbox": {
-			"description": "HD Carboxes for stock cars by Xarc",
-			"version": "22.0213",
-			"checksum": "bb581ee05475f005fecfbcdef8049ad93ef949023ac4c61fcbba3466b5c67c88",
-			"url": "https://vas0sky.github.io/vas-hd/vas_hdcarbox.zip",
-			"file": "vas_hdcarbox.zip"
-		},
-		"vas_hdloadfront": {
-			"description": "HD Loading Screens for stock tracks by MED",
-			"version": "22.1009",
-			"checksum": "1b405978374cc1f4dc3c3f3ef257a414d2b9accaccf44446bb4005dcfb86dd9e",
-			"url": "https://vas0sky.github.io/vas-hd/vas_hdloadfront.zip",
-			"file": "vas_hdloadfront.zip"
-		},
-		"vas_hdfrontend": {
-			"description": "HD Frontends by Kiwi",
-			"version": "23.0116",
-			"checksum": "a2b2b877cefd1540a2d48128c1035c74eae9357fcc85805a4f160424085dd3f9",
-			"url": "https://vas0sky.github.io/vas-hd/vas_hdfrontend.zip",
-			"file": "vas_hdfrontend.zip"
-		},
-		"vas_hddiamond": {
-			"description": "HD Diamond Cup by Kiwi, cars and tracks by various autors",
-			"version": "23.0116",
-			"checksum": "bc9a077d3076f843be4268a574e35073ec09d18e4c4ff857fe33da7c3ccbfbe7",
-			"url": "https://vas0sky.github.io/vas-hd/vas_hddiamond.7z",
-			"file": "vas_hddiamond.7z"
 		}
 	}
 }
