@@ -3,12 +3,39 @@
 	"version": "24.1220",
 	"packages": {
 		"etn_minitrolley": {
-			"description": "MiniTrolley",
+			"description": "MiniTrolleys from Italian and international supermarkets",
 			"version": "24.1220",
-			"checksum": "e190699b23f85b7d5a849f13be0d080bcba39c52a86aa5d115beb13ba773372e",
+			"checksum": "d9df660b10e19ddcf2bdc9bdf210705e34e31f1df19635ac0df8484130bada2a",
 			"url": "https://etneus95.github.io/etn_rv/etn_minitrolley.zip",
 			"file": "etn_minitrolley.zip"
+		},
+		"etn_detour": {
+			"description": "Edited stock tracks with added obstacles and detours",
+			"version": "24.1024",
+			"checksum": "4c3bd5a662ae1a1013d67d33eddf69cc3febe0b9914a947425a0d3fb8152c3c1",
+			"url": "https://etneus95.github.io/etn_rv/etn_detour.zip",
+			"file": "etn_detour.zip"
+		},
+		"etn_corticircuiti": {
+			"description": "Edited stock tracks in their shortened version",
+			"version": "24.1024",
+			"checksum": "a4e48fd028b075013c46fc14e51170ce36e34d731449d23e16fe4025150b2ef8",
+			"url": "https://etneus95.github.io/etn_rv/etn_corticircuiti.zip",
+			"file": "etn_corticircuiti.zip"
+		},
+		"etn_rainbowroads": {
+			"description": "Edited stock tracks resembling RR from MarioKart saga.",
+			"version": "24.1024",
+			"checksum": "4993ca9b09b0056ae19b912697f1206066ee27746e005d61a19ee083f79dc483",
+			"url": "https://etneus95.github.io/etn_rv/etn_rainbowroads.zip",
+			"file": "etn_rainbowroads.zip"
+		},
+		"etn_soccer": {
+			"description": "Arenas and Bertha cars to play soccer games",
+			"version": "24.1024",
+			"checksum": "a3f6bf0f4a9035cf43dfc9d594af94671cb5c71fc8935724ca4719e18ac7c775",
+			"url": "https://etneus95.github.io/etn_rv/etn_soccer.zip",
+			"file": "etn_soccer.zip"
 		}
-		
 	}
 }
