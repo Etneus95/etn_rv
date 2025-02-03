@@ -1,11 +1,11 @@
 {
 	"name": "Etneus95's Re-Volt Repository",
-	"version": "24.1221",
+	"version": "25.0203",
 	"packages": {
 		"etn_minitrolley": {
-			"description": "MiniTrolleys from Italian and international supermarkets",
-			"version": "24.1221",
-			"checksum": "8b13008a3a45c108e20cf21cfefe81db1cc020eb5fd3b338e967aae9214d13ad",
+			"description": "MiniTrolleys of Italian and international supermarkets",
+			"version": "25.0203",
+			"checksum": "14067a35650eb64bc2a52162ff293a43dd13cc0d427a57f05af8a966cb568760",
 			"url": "https://etneus95.github.io/etn_rv/etn_minitrolley.zip",
 			"file": "etn_minitrolley.zip"
 		},
